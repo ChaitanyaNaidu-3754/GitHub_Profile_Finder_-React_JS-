@@ -1,5 +1,5 @@
 import './App.css'
-import GithubProfileFinder from './components'
+import GithubProfileFinder from './components/index'
 
 function App() {
 
